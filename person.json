@@ -1,0 +1,32 @@
+[
+  { "firstname": "Yosyp", 
+  "lastname": "Tymchenko", 
+  "birthyear": 1852, 
+  "fieldactivity": "inventor and mechanic",
+  "invention": "creation important part of the kinescope" },
+
+  { "firstname": "Igor", 
+  "lastname": "Skorsky", 
+  "birthyear": 1889, 
+  "fieldactivity": "aircraft designer",
+  "invention": "aviation pioneering in both helicopters and fixed-wing aircraft" },
+
+  { "firstname": "Sergiy", 
+  "lastname": "Korolev", 
+  "birthyear": 1907, 
+  "fieldactivity": "rocket engineer",
+  "invention": "Sputnik program which in 1957 launched the first artificial satellite into orbit" },
+
+  { "firstname": "Petro", 
+  "lastname": "Bobonych", 
+  "birthyear": 1942, 
+  "fieldactivity": "scientist",
+  "invention": "glucometer (a device for measuring blood sugar) in the form of a wristwatch." },
+
+  { "firstname": "Eugene", 
+  "lastname": "Paton", 
+  "birthyear": 1870, 
+  "fieldactivity": "engeneer and scientist in the field of welding processes and bridge construction.",
+  "invention": "methods of design of rational bridge spans" }
+]
+
